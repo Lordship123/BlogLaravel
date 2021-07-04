@@ -1,0 +1,14 @@
+@media only screen and (max-width:720px) {
+
+    .blog_home_container{
+        font-size: 15px;
+    }
+    .link_home_href{
+        font-size: 12px;
+    }
+    .time_home{
+        float: right;
+        width: 48%;
+    }
+}
+
